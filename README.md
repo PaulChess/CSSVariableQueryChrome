@@ -1,0 +1,2 @@
+# CSSVariableQueryChrome
+快速搜索CSS变量的Chrome插件
